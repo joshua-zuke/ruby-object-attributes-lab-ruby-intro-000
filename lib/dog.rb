@@ -21,6 +21,3 @@ class Dog
   end
 
 end
-
-fido = Dog.new("Fido", "German Shepherd")
-snoopy = Dog.new("Snoopy", "Dalmation")
